@@ -10,6 +10,8 @@ Sou um jovem que sempre gostou de tecnologia, sabendo disso decidi transformar m
 
 
 ## Experiência🎢
+Estagio - Desennvolvedor 
+
 Estágio de 6 meses no Centro de tecnologia Lynaldo Cavalcanti
 
 Freelancer - Desenvolvimento de Software 
