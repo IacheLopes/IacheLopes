@@ -17,7 +17,7 @@ Sou um jovem que sempre gostou de tecnologia, sabendo disso decidi transformar m
 ### Freelancer - Desenvolvimento de Software 
 
 - Trabalhei na criação de websites, landing pages e sistemas personalizados para clientes.
-- Trabalhei em um projeto internacional   do Lobby Ninja, Fui  responsável  por criar  e  dar  funcionalidades as páginas  da  aplicação, adicionando diversos  filtros de  ordenação, busca, pesquisa, visualização  e mais...  Criei  e gerenciei components, links e lógicas que deixaram a página totalmente funcional e iterativa. 
+- Trabalhei em um projeto internacional   do Lobby Ninja, Fui  responsável  por criar  e  dar  funcionalidades as páginas  da  aplicação, adicionando diversos  filtros de  ordenação, busca, pesquisa, visualização  e mais...  Criei  e gerenciei components, links e lógicas que deixaram a página totalmente funcional e interativa. 
 
 ## Contate-me📧
  <a href = "mailto:iachelopes1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
