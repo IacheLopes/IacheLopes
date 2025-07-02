@@ -1,5 +1,5 @@
 ## <h1>Bem-vindo ao meu perfil do GitHub!</h1>
-### Olá, tudo tranquilo? eu sou o Iache desenvolvedor full-stack👋
+### Olá, tudo tranquilo? eu sou o Iache desenvolvedor de software👋
 <div class="grafico" style display:inline-block>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iachelopes&layout=compact&langs_count=7&theme=merko" height="35%">
 </div>
